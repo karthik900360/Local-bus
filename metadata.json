@@ -1,0 +1,6 @@
+{
+  "name": "Yatri Bus",
+  "description": "Indian local bus route timings, live GPS tracking map, fare calculator, frequency finder, and traffic delay alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
